@@ -1,4 +1,4 @@
-# CommunicationPatterns
+# Backend Communication Patterns
 
 ### Publish-Subscribe
 

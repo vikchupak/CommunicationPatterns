@@ -1,4 +1,18 @@
-# Backend Communication Patterns
+# Backend Communication Design Patterns
+
+- https://www.linkedin.com/pulse/backend-communication-design-patterns-muhammad-iftekhar-ul-alam/
+- https://www.freecodecamp.org/news/communication-design-patterns-for-backend-development/
+
+---
+
+- Request-Response (REST/gRPC)
+- Push (WebSockets) (Bi-Directional, Real-Time Communication)
+- Server-Sent Events (SSE) (One-Way - only supports **server-to-client** communication, Real-Time Streaming)
+- Publish-Subscribe (Without queue)
+- Message Queues (Publish-Subscribe with queue)
+- Short Polling (client makes requests with interval)
+- Long Polling (like request-response with open connection waiting for server response)
+- Webhooks (Server-to-Server Callbacks)
 
 ### Publish-Subscribe
 

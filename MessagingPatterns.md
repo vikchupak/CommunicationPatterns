@@ -1,4 +1,4 @@
-# Messaging Patterns for traditional message brockers
+# Messaging Patterns for traditional message brokers
 
 - Competing Consumers 
 - Publish/Subscribe

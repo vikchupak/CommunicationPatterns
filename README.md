@@ -2,6 +2,9 @@
 
 - https://www.linkedin.com/pulse/backend-communication-design-patterns-muhammad-iftekhar-ul-alam/
 - https://www.freecodecamp.org/news/communication-design-patterns-for-backend-development/
+- https://www.geeksforgeeks.org/communication-design-patterns-for-backend-development-1/
+  - **Circuit Breaker Pattern**
+  - **Bulkhead Pattern**
 
 ---
 

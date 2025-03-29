@@ -10,7 +10,7 @@
 
 - Request-Response (REST/gRPC)
 - Push (WebSockets) (Bi-Directional, Real-Time Communication)
-- Server-Sent Events (SSE) (One-Way - only supports **server-to-client** communication, Real-Time Streaming)
+- Server-Sent Events (SSE) (One-Way - only supports **server-to-client** communication, Real-Time **Streaming**)
 - Publish-Subscribe (Without queue)
 - Message Queues (Publish-Subscribe with queue)
 - Short Polling (client makes requests with interval)

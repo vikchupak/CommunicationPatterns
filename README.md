@@ -4,8 +4,8 @@
 
 Publish-Subscribe (Pub-Sub) can work in **two different modes**:  
 
-- **Instant Message/Event Broadcasting (Fire-and-Forget, No Queue)**
-- **Queued Message Processing (Ensured Delivery, FIFO/At-least-once Processing)**  
+- **Instant Message/Event Broadcasting (Fire-and-Forget, No Queue). Sometimes ref as `Pub-Sub pattern`.**
+- **Queued Message Processing (Ensured Delivery, FIFO/At-least-once Processing). Sometimes ref as `Message Queues pattern`.**
 
 ---
 
